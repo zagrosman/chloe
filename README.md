@@ -4,12 +4,22 @@
 # Chloë: Organelle Annotator
 
 To run the annotator or write gff3 or create suffix array files type:
+First try to instal *Julia* if it is not installed on your linux system:
+
+```
+sudo snap install julia --classic
+
+```
+Then:
 
 ```bash
 julia chloe.jl --help
 # or for a specific command e.g.
 julia chloe.jl annotate --help
 ```
+
+
+
 
 (See installing dependencies below)
 
