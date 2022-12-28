@@ -18,6 +18,11 @@ julia chloe.jl --help
 julia chloe.jl annotate --help
 ```
 
+You should see the following message on your linux terminal:
+
+![image](https://user-images.githubusercontent.com/17006122/209800057-99b2e0b5-1c47-43ed-88b4-322a5ce5b9e4.png)
+
+
 
 
 
